@@ -1,4 +1,8 @@
 TABLA DE PREDICCIONES
+
+
+
+
 <img width="598" height="261" alt="Captura de pantalla 2026-10-06 111059" src="https://github.com/user-attachments/assets/b3e3d18f-3ff5-4cea-a2f4-2631e18f416d" />
 
 
