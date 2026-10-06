@@ -9,12 +9,7 @@ COMPROBACIÓN Y CONTRASTE DE RESULTADOS
 
 RESULTADOS EN LA COMPROBACIÓN
 
-Log A || undefined ||                 
-Log B || "Teclado Mecánico" || 
-Log C || 25 || 
-Log D || 10 || 
-Log E || Error || 
-Log F || Error || 
+
 
 
 CONCLUSIÓN CRÍTICA
