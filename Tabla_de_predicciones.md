@@ -3,7 +3,7 @@ TABLA DE PREDICCIONES
 
 
 
-<img width="598" height="261" alt="Captura de pantalla 2026-10-06 111059" src="https://github.com/user-attachments/assets/b3e3d18f-3ff5-4cea-a2f4-2631e18f416d" />
+<img width="602" height="311" alt="Captura de pantalla 2026-10-06 173954" src="https://github.com/user-attachments/assets/940bb848-0796-4935-acd1-debf56a3947b" />
 
 
 
