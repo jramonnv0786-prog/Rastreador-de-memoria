@@ -23,8 +23,8 @@ RESULTADOS EN LA COMPROBACIÓN
 
 CONCLUSIÓN CRÍTICA
 
-Según los resultados de los apartados A, D Y E. El uso de var pone en peligro el código porque no lanza los errores,
-en cambio let y const no avanzan si hay errores. 
+Según los resultados de los apartados A, D Y E. El uso de var pone en peligro el código porque no lanza los errores o mejor dicho,
+no los define, en cambio let y const no avanzan si hay errores. 
 
 
 
