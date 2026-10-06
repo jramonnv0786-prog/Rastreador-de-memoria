@@ -16,6 +16,10 @@ RESULTADOS EN LA COMPROBACIÓN
 
 
 
+<img width="403" height="258" alt="Captura de pantalla 2026-10-06 111327" src="https://github.com/user-attachments/assets/a727e9da-f198-4753-8fda-6fa65316601e" />
+
+
+
 
 CONCLUSIÓN CRÍTICA
 
