@@ -1,11 +1,6 @@
 TABLA DE PREDICCIONES
 
-Log A || undefined || La variable se usa antes de su asignación.
-Log B || "Teclado Mecánico" || La variable ya está en uso.
-Log C || 25 || Ámbito de función
-Log D || 10 || Ámbito de bloque 
-Log E || Error || TDZ Temporal Dead Zone
-Log F || Error || TDZ Temporal Dead Zone
+
 
 
 COMPROBACIÓN Y CONTRASTE DE RESULTADOS 
@@ -14,7 +9,7 @@ COMPROBACIÓN Y CONTRASTE DE RESULTADOS
 
 RESULTADOS EN LA COMPROBACIÓN
 
-Log A || undefined || 
+Log A || undefined ||                 
 Log B || "Teclado Mecánico" || 
 Log C || 25 || 
 Log D || 10 || 
