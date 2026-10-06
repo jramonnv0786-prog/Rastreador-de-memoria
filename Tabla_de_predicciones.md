@@ -13,7 +13,6 @@ COMPROBACIÓN Y CONTRASTE DE RESULTADOS
 
 <img width="790" height="293" alt="Captura de pantalla 2026-10-06 102124" src="https://github.com/user-attachments/assets/dab4e409-638d-4d5e-be52-15c0c8fd7a55" />
 
-Los resultados fueron los mismos que se esperaban en la predicción a falta de explicación breve de los últimos dos puntos.
 
 
 RESULTADOS EN LA COMPROBACIÓN
