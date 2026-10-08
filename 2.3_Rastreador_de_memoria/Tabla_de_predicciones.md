@@ -10,7 +10,10 @@ TABLA DE PREDICCIONES
 
 COMPROBACIÓN Y CONTRASTE DE RESULTADOS 
 
-<img width="2435" height="293" alt="Captura de pantalla 2026-10-06 102124" src="https://github.com/user-attachments/assets/036e7182-7fb1-47bd-ab73-e5051b0230a8" />
+
+<img width="790" height="293" alt="Captura de pantalla 2026-10-06 102124" src="https://github.com/user-attachments/assets/dab4e409-638d-4d5e-be52-15c0c8fd7a55" />
+
+
 
 RESULTADOS EN LA COMPROBACIÓN
 
@@ -24,7 +27,7 @@ RESULTADOS EN LA COMPROBACIÓN
 CONCLUSIÓN CRÍTICA
 
 Según los resultados de los apartados A, D Y E. El uso de var pone en peligro el código porque no lanza los errores o mejor dicho,
-no los define, en cambio let y const no avanzan si hay errores. 
+no los define, en cambio let y const no avanzan si hay errores. En conclusión, esto mejora la legibilidad del código.
 
 
 
